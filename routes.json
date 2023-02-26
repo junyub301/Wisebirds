@@ -1,0 +1,5 @@
+{
+    "/api/auth/:resource": "/auth?:resource",
+    "/api/campaigns": "/campaigns",
+    "/api/users": "/users"
+}
